@@ -1,3 +1,5 @@
+# Notion Page
+<a href="https://shocking-lifeboat-e2f.notion.site/f0754a49378b4fc0a68b208b18f7fe59">NOTION</a>
 # Graph-Theory-Study
 a repository for archiving graph theory study contents
 
